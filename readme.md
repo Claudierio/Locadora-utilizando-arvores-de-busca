@@ -1,4 +1,4 @@
-Criação de uma locadora utilizando:
--Arvore BST
--Arvore AVL
--Arvore RB
+Arvores de busca utilizadas no projeto:<br />
+-Arvore BST<br />
+-Arvore AVL<br />
+-Arvore RB<br />
